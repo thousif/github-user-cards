@@ -1,0 +1,32 @@
+body{
+  background: #ebebeb;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  margin: 0 100px 100px 100px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeSpeed;
+}
+
+.thumbnail img{
+	width: 100%;
+}
+
+.thumbnail .caption{
+	min-height: 139px;
+}
+
+.search{
+	max-width: 450px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.filter ul{
+	display: inline-block;
+}
+
+.filter ul li{
+	display: inline-block;
+}
